@@ -1,0 +1,6 @@
+state,account_length,area_code,international_plan,voice_mail_plan,number_vmail_messages,total_day_minutes,total_day_calls,total_day_charge,total_eve_minutes,total_eve_calls,total_eve_charge,total_night_minutes,total_night_calls,total_night_charge,total_intl_minutes,total_intl_calls,total_intl_charge,number_customer_service_calls,prediction
+OH,52,area_code_510,no,yes,26,175.75,82,29.88,179.65,85,15.27,197.5,87,8.885,10.0,10,2.7,4,0
+OH,122,area_code_415,yes,yes,13,259.51,82,29.88,179.65,85,15.27,197.5,87,8.885,10.0,10,2.7,4,0
+LA,68,area_code_415,yes,yes,13,259.51,82,29.88,179.65,85,15.27,197.5,87,8.885,10.0,10,2.7,4,0
+OH,122,area_code_415,no,yes,26,175.75,82,29.88,179.65,85,15.27,197.5,87,8.885,10.0,10,2.7,4,0
+OH,122,area_code_510,no,no,26,175.75,82,29.88,179.65,85,15.27,197.5,87,8.885,10.0,10,2.7,4,1
